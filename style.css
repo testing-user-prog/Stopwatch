@@ -13,6 +13,7 @@ body
     padding: 1.5em;
      border: 2px solid black;  
   border-radius: 10px;
+  text-align: center;
 }
 button
 {
@@ -20,6 +21,7 @@ button
     font-size: 1em;
     border: 2px solid black;  
   border-radius: 10px;
+  
 }
 #start
 {
@@ -51,6 +53,9 @@ button
     /* padding:2em; */
     font-family: monospace;
     font-weight: bold;
-    font-size: 2em;
+    font-size: 4vw;
+    
     padding-bottom: 1em;
+    text-align: center;
+    
 }
